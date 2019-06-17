@@ -91,3 +91,4 @@
 
 <img src="Exemplo_15.png" width="600"/> 
 <p> </p>
+<img src="Exemplo_16.png" width="300" hspace="10"/><img src="Exemplo_10.png" width="300"/>

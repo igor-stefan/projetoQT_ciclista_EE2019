@@ -90,3 +90,4 @@
 <p align="justify">Para carregar os dados é necesssário acessar o menu "Arquivo" e selecionar "Carregar". Novamente um explorador será aberto, o usuário deve procurar seu arquivo ('pelotao_exemplo' na imagem), selecioná-lo e clicar em "Open" (na imagem) ou "Abrir" (em português). Após isso, a tabela carregada é mostrada e os valores automaticamente <b>ordenados por velocidade média</b> e as estatísticas atualizadas conforme os dados.</p>
 
 <img src="Exemplo_15.png" width="600"/>
+<img src="Exemplo_16.png" width="300" hspace="10"/> <img src="Exemplo_10.png" width="300"/>

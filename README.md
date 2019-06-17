@@ -89,6 +89,7 @@
 ### Carregando os Dados
 <p align="justify">Para carregar os dados é necesssário acessar o menu "Arquivo" e selecionar "Carregar". Novamente um explorador será aberto, o usuário deve procurar seu arquivo ('pelotao_exemplo' na imagem), selecioná-lo e clicar em "Open" (na imagem) ou "Abrir" (em português). Após isso, a tabela carregada é mostrada e os valores automaticamente <b>ordenados por velocidade média</b> e as estatísticas atualizadas conforme os dados.</p>
 
-<img src="Exemplo_15.png" width="600"/>
-<p align="justify">Abaixo, imagem da tabela e da aba estatísticas.</p>
-<img src="Exemplo_16.png" width="300" hspace="10"/> <img src="Exemplo_10.png" width="300" hspace="2"/>
+
+# Considerações
+<p align="justify">Este projeto também pode ser utilizado por um único ciclista para registrar seus percursos e obter suas estatísticas. Por exemplo, poderia nomear o ciclista de "Dia_Um" e anotar o restante dos dados, fazendo o mesmo para os próximos dias, dessa maneira terá um panorâma de suas pedalas.</p>
+<p align="justify">É um programa que pode ser usado tanto coletivamente quanto individualmente.</p>

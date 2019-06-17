@@ -66,7 +66,7 @@
 
 <img src="Exemplo_6.png" width="280" hspace="2"/><img src="Exemplo_7.png" width="280" hspace="2"/> <img src="Exemplo_8.png" width="280" hspace="2"/>
 
-<p align="justify">O programa abre as caixas de diálogo das imagens após duplo clique em uma célula. O ciclista "Beltrano" teve sua "Distância" alterada para 5.6 Km. Tudo realizado após confirmação e a sua velocidade média foi alterada. A tabela volta a ser exibida com os novos valores e os ciclistas <b>ordenados por velocidade média</b>.As estatísticas são recalculadas (ver imagem abaixo)</p>
+<p align="justify">O programa abre as caixas de diálogo das imagens após duplo clique em uma célula. O ciclista "Beltrano" teve sua "Distância" alterada para 5.6 Km. Tudo realizado após confirmação e a sua velocidade média foi alterada. A tabela volta a ser exibida com os novos valores e os ciclistas <b>ordenados por velocidade média</b>.As estatísticas são recalculadas (ver imagem abaixo).</p>
 
 <img src="Exemplo_5.png" width="350" hspace="20"/><img src="Exemplo_10.png" width="350" hspace="20"/>
 
@@ -89,6 +89,4 @@
 ### Carregando os Dados
 <p align="justify">Para carregar os dados é necesssário acessar o menu "Arquivo" e selecionar "Carregar". Novamente um explorador será aberto, o usuário deve procurar seu arquivo ('pelotao_exemplo' na imagem), selecioná-lo e clicar em "Open" (na imagem) ou "Abrir" (em português). Após isso, a tabela carregada é mostrada e os valores automaticamente <b>ordenados por velocidade média</b> e as estatísticas atualizadas conforme os dados.</p>
 
-<img src="Exemplo_15.png" width="600"/> 
-<p> </p>
-<img src="Exemplo_16.png" width="300" hspace="10"/><img src="Exemplo_10.png" width="300"/>
+<img src="Exemplo_15.png" width="600"/>

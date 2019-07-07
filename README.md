@@ -29,7 +29,7 @@
 ### Salvar e Carregar
 <p align="justify">No canto superior direito o programa possui um menu "Arquivo" que ao ser selecionado apresenta duas opções. Depois de escolhida a opção será aberta uma janela para o usuário indicar o endereço do arquivo a ser salvo ou carregado.</p>
 <p align="justify"><b>Salvar:</b> O usuário deve escolher o local para salvar o arquivo, colocar um nome e selecionar "Salvar".</p>
-<p align="justify"><b>1.Carregar:</b> O usuário deve procurar o arquivo .csv e selecionar "Abrir" para carregar os dados salvos para o programa.</p>
+<p align="justify"><b>Carregar:</b> O usuário deve procurar o arquivo .csv e selecionar "Abrir" para carregar os dados salvos para o programa.</p>
 <p align="justify"><b>Observação: </b>Não é possível unir os ciclistas cadastrados com algum arquivo carregado. Os dados existentes na tabela serão perdidos quando realizado o carregamento de um arquivo.</p>
 
 ### Editar dados da Tabela

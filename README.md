@@ -3,7 +3,7 @@
 ### Organiza os dados de um pelotão em uma tabela e gera estatísticas com base nos dados.
 <p align="justify"> Aplicação desenvolvida para facilitar o monitoramento de um pelotão de ciclistas baseado em um percurso realizado (distância e tempo) e algumas informações pessoais (nome, idade e peso). Calcula o gasto energético de cada ciclista, as respectivas velocidades médias e mostra todos os dados em uma tabela. É possível realizar o ordenamento da tabela de acordo com o parâmetro escolhido além de serem exibidas em uma segunda aba, as estatísticas referentes ao pelotão. Também é possível salvar esses dados em um arquivo do tipo .csv, bem como carregar dados salvos anteriormente.</p>
 
-<img src="Tela_inicial1.png" width="480">
+<img src="imagens/Tela_inicial1.png" width="480">
 
 # Manual do Usuário
 
@@ -42,7 +42,7 @@
 <p align="justify"><b>3. Destaques:</b> Mostra o ciclista que obteve a maior distância percorrida, o menor tempo gasto para realizar o percurso e a maior velocidade média, respectivamente.</p>
 <p align="justify">A imagem abaixo mostra a aba "estatísticas" no formato padrão.</p>
 
-<img src="Tela_estatisticas1.png" width="480">
+<img src="imagens/Tela_estatisticas1.png" width="480">
 
 # Exemplo
 
@@ -50,7 +50,7 @@
 
 ### Realizando o Cadastro
 
-<img src="Exemplo_1.png" width="280" hspace="2"/><img src="Exemplo_1.png" width="280" hspace="2"/> <img src="Exemplo_3.png" width="280" hspace="2"/>
+<img src="imagens/Exemplo_1.png" width="280" hspace="2"/><img src="imagens/Exemplo_2.png" width="280" hspace="2"/> <img src="imagens/Exemplo_3.png" width="280" hspace="2"/>
 
 <p align="justify">Na primeira imagem colocamos os dados do ciclista. Na segunda imagem o programa os exibiu na tabela. E na terceira imagem estão apresentadas as estatísticas.</p>
 
@@ -58,17 +58,17 @@
 
 <p align="justify">Para fazer o ordenamento foi adicionado dois ciclistas.</p>
 
-<img src="Exemplo_4.png" width="280" hspace="2"/><img src="Exemplo_5.png" width="280" hspace="2"/> <img src="Exemplo_6.png" width="280" hspace="2"/>
+<img src="imagens/Exemplo_4.png" width="280" hspace="2"/><img src="imagens/Exemplo_5.png" width="280" hspace="2"/> <img src="imagens/Exemplo_6.png" width="280" hspace="2"/>
 
 <p align="justify">Os ciclistas foram ordenados por nome. Com o cadastro de mais dois ciclistas as estatísticas mudaram, por exemplo, já está sendo calculado o desvio padrão.</p>
 
 ### Editando dado da Tabela
 
-<img src="Exemplo_6.png" width="280" hspace="2"/><img src="Exemplo_7.png" width="280" hspace="2"/> <img src="Exemplo_8.png" width="280" hspace="2"/>
+<img src="imagens/Exemplo_6.png" width="280" hspace="2"/><img src="imagens/Exemplo_7.png" width="280" hspace="2"/> <img src="imagens/Exemplo_8.png" width="280" hspace="2"/>
 
 <p align="justify">O programa abre as caixas de diálogo das imagens após duplo clique em uma célula. O ciclista "Beltrano" teve sua "Distância" alterada para 5.6 Km. Tudo realizado após confirmação e a sua velocidade média foi alterada. A tabela volta a ser exibida com os novos valores e os ciclistas <b>ordenados por velocidade média</b>.As estatísticas são recalculadas (ver imagem abaixo).</p>
 
-<img src="Exemplo_5.png" width="350" hspace="20"/><img src="Exemplo_10.png" width="350" hspace="20"/>
+<img src="imagens/Exemplo_5.png" width="350" hspace="20"/><img src="imagens/Exemplo_10.png" width="350" hspace="20"/>
 
 <p align="justify">A imagem da esquerda mostra os valores da tabelas antes da alteração da velocidade de "Beltrano", a da direita mostra após alteração</p>
 
@@ -76,20 +76,20 @@
 
 <p align="justify">Para salvar os dados é necessário clicar no menu "Arquivo" no canto superior esquerdo da tela e selecionar "Salvar". Em seguida será apresentado um menu do explorador de arquivos para o usuário escolher onde deverá ser salvo o arquivo ".csv" e também nomear o arquivo para habilitar o botão "Save" no caso da imagem. </p>
 
-<img src="Exemplo_14.png" width="600"/> 
+<img src="imagens/Exemplo_14.png" width="600"/> 
 
 <p align="justify">Foi salvo um arquivo ".csv" nomeado "pelotao_exemplo"</p>
 
 ### Limpando a tabela
 
-<img src="Exemplo_11.png" width="280" hspace="2"/><img src="Exemplo_12.png" width="280" hspace="2"/> <img src="Exemplo_13.png" width="280" hspace="2"/>
+<img src="imagens/Exemplo_11.png" width="280" hspace="2"/><img src="imagens/Exemplo_12.png" width="280" hspace="2"/> <img src="imagens/Exemplo_13.png" width="280" hspace="2"/>
 
 <p align="justify">Na primeira imagem, após o clique no botão "Limpar Tabela" verifica-se uma caixa de diálogo com aviso e pedindo confirmação. As outras duas imagens mostram a tabela sem dados e a aba estatísticas em seu formato padrão.</p>
 
 ### Carregando os Dados
 <p align="justify">Para carregar os dados é necesssário acessar o menu "Arquivo" e selecionar "Carregar". Novamente um explorador será aberto, o usuário deve procurar seu arquivo ('pelotao_exemplo' na imagem), selecioná-lo e clicar em "Open" (na imagem) ou "Abrir" (em português). Após isso, a tabela carregada é mostrada e os valores automaticamente <b>ordenados por velocidade média</b> e as estatísticas atualizadas conforme os dados.</p>
 
-<img src="Exemplo_15.png" width="600" hspace="5"/><img src="Exemplo_16.png" width="350" hspace="5"/> <img src="Exemplo_10.png" width="350" hspace="5"/>
+<img src="imagens/Exemplo_15.png" width="600" hspace="5"/><img src="imagens/Exemplo_16.png" width="350" hspace="5"/> <img src="imagens/Exemplo_10.png" width="350" hspace="5"/>
 
 
 # Considerações
